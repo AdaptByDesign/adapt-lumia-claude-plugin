@@ -1,0 +1,22 @@
+{
+    "name": "lumia",
+    "displayName": "Adapt Lumia",
+    "homepage": "https://lumia.theadaptway.com",
+    "supportUrl": "https://support.theadaptway.com",
+    "version": "0.1.0",
+    "description": "Explore and summarise organisational data in Adapt Lumia, including culture, stewardship, objectives and leadership; answer reporting questions; analyse employee engagement and culture with Preset Prompts; and search Adapt guidance. Authorised Nimbus users can also review account risk and billing tiers. Read-only; availability depends on your account permissions.",
+    "keywords": [
+        "business-operations",
+        "organisational-data",
+        "reporting",
+        "employee-engagement",
+        "culture",
+        "preset-prompts",
+        "account-risk",
+        "billing-tier-review",
+        "support-documentation"
+    ],
+    "author": {
+        "name": "ADAPT By Design Pty Ltd"
+    }
+}

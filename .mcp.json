@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "lumia": {
+            "type": "http",
+            "url": "https://api.theadaptway.com/mcp"
+        }
+    }
+}
