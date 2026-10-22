@@ -2,9 +2,7 @@
     "name": "adapt-lumia",
     "displayName": "Adapt Lumia",
     "homepage": "https://lumia.theadaptway.com",
-    "supportUrl": "https://support.theadaptway.com",
-    "privacyPolicyUrl": "https://theadaptway.com/privacy-policy",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Explore and summarise organisational data in Adapt Lumia, including culture, stewardship, objectives and leadership; answer reporting questions; analyse employee engagement and culture with Preset Prompts; and search Adapt guidance. Authorised Nimbus users can also review account risk and billing tiers. Read-only; availability depends on your account permissions.",
     "keywords": [
         "business-operations",
